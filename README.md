@@ -1,4 +1,4 @@
-# wk4-mini-project
+# Word Guess Game
 ---
 
 ## Description
